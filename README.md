@@ -35,3 +35,10 @@ Evaluate the model’s performance using RMSE
 <b>Evaluation:</b><br>
 Final ARIMA model achieved an RMSE of 1584, indicating a reasonably accurate forecast<br>
 
+## 📈 Key Findings
+Bitcoin prices show high volatility and long-term upward trends
+
+ARIMA model, after parameter tuning, outperformed the MA model in terms of forecasting accuracy
+
+Visualizations helped identify trends, seasonality, and model performance
+
