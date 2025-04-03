@@ -42,3 +42,8 @@ ARIMA model, after parameter tuning, outperformed the MA model in terms of forec
 
 Visualizations helped identify trends, seasonality, and model performance
 
+## 📂 Files
+📄Time Series Analysis of Bitcoin Prices.ipynb ----> # Main code file, containes all code for EDA and forecasting 
+
+📄Historical Bitcoin Data.csv ----> # CSV file containing Bitcoin prices data
+
